@@ -1,3 +1,3 @@
-import file sql ke xampp
+import file sql ke xampp php maria DB
 
 versi php projek 7.2.3 or higher
