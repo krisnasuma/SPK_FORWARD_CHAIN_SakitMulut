@@ -1,0 +1,3 @@
+import file sql ke xampp
+
+versi php projek 7.2.3 or higher
